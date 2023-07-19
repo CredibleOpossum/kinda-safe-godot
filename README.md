@@ -12,7 +12,7 @@ Running a bash environment inside the sandbox is not possible due to restricted 
 
 The development of Kinda-Safe-Godot was primarily motivated by the [gates](https://flathub.org/apps/io.itch.nordup.TheGates) project. While a typical approach would involve creating a container image or using Flatpak, these solutions introduce significant dependencies, potentially hindering casual users from accessing the game.
 
-Instead, we recommend building a Flatpak, which provides finer controls and ensures compatibility across various systems.
+Instead of using this project, I recommend building a Flatpak, which provides finer controls and ensures compatibility across various systems.
 
 ## Usage
 
